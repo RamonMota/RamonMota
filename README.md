@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<https://github.com/RamonMota/RamonMota/blob/output/github-contribution-grid-snake.svg>
+<!-- Snake -->
+<img src="https://github.com/RamonMota/RamonMota/blob/output/github-contribution-grid-snake.svg">
 
 <!--
 **RamonMota/RamonMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
